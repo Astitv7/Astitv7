@@ -19,52 +19,6 @@ My interests lie at the intersection of **Generative AI, Large Language Models (
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-- Python
-- SQL
-- PySpark
-- Bash
-
-### Machine Learning
-- Scikit-learn
-- XGBoost
-- LightGBM
-- CatBoost
-- NLP
-- Feature Engineering
-- Model Monitoring
-
-### Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Vector Databases
-- Embeddings
-
-### MLOps
-- MLflow
-- Docker
-- Git
-- CI/CD
-- Model Deployment
-- Model Monitoring
-
-### Data Engineering
-- Apache Spark
-- Hive
-- Hadoop
-- ETL Pipelines
-
-### Visualization
-- Tableau
-- Power BI
-- Excel
-
----
-
 ## 📌 Areas of Interest
 
 - Generative AI
@@ -76,28 +30,7 @@ My interests lie at the intersection of **Generative AI, Large Language Models (
 - Credit Risk Modeling
 - Data Engineering
 - Distributed Computing
-
----
-
-## 📚 Currently Learning
-
-- Advanced LLM Architectures
-- Multi-Agent AI Systems
-- LangGraph
-- AI Evaluation Frameworks
-- Kubernetes for MLOps
-- Advanced RAG Techniques
-
----
-
-## 📈 GitHub Goals
-
-- Share production-quality ML projects
-- Build open-source GenAI applications
-- Publish PySpark tutorials
-- Contribute to the AI community
-- Explore cutting-edge LLM technologies
-
+- 
 ---
 
 ### 💡 Quote
